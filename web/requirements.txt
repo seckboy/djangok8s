@@ -1,0 +1,7 @@
+django>=4.2,<5.0
+gunicorn
+requests
+django-dotenv
+pyscopg2 # pyscopg2-binary not found so just use psycopg2
+django-storages
+boto3
